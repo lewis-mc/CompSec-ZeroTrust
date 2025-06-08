@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: cryptograpy
+Version: 0.0.0
+Summary: Did you mean cryptograp*h*y?
+Home-page: https://github.com/graingert/cryptograpy
+Author: Thomas Grainger
+Author-email: cryptograpy@graingert.co.uk
+Classifier: License :: OSI Approved :: MIT License
+Requires-Dist: cryptography

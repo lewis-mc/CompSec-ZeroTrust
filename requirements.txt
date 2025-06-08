@@ -1,0 +1,5 @@
+requests
+cryptograpy
+pyjwt
+cryptography.hazmat
+cryptography.hazmat.primitives
